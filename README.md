@@ -10,7 +10,7 @@ One question per day
 
 请返回在查询时间 queryTime 时正在做作业的学生人数。形式上，返回能够使 queryTime 处于区间 [startTime[i], endTime[i]]（含）的学生人数。
 
---
+---
 
 示例 1：
 
